@@ -23,3 +23,5 @@ sudo apt-get install terraform -qq -y > /dev/null
 
 echo "Installing git"
 sudo apt install git -qq -y > /dev/null
+echo "Installing JDK"
+sudo apt-get install openjdk-11-jdk -y > /dev/null
