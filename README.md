@@ -5,7 +5,7 @@ The purpose of this repository is to have simple terraform scripts to provision 
 
 Pre requisite 
 
-0) rYyou must configure the config and credentials in ~/.aws
+0) You must configure the config and credentials in ~/.aws
 
 config file sample
 
